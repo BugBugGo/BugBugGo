@@ -1,0 +1,22 @@
+.center {
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+h1 {
+    font-family: Arial;
+    color: rgb(134, 126, 126);
+}
